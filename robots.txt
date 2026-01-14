@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sunfacestudios.netlify.app/sitemap.xml
